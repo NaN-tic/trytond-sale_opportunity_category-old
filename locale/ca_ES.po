@@ -34,6 +34,14 @@ msgctxt "field:sale.opportunity.category,write_uid:"
 msgid "Write User"
 msgstr "Usuari modificació"
 
+msgctxt "model:ir.action,name:act_category"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "model:ir.ui.menu,name:menu_category"
+msgid "Categories"
+msgstr "Categories"
+
 msgctxt "model:sale.opportunity.category,name:"
 msgid "Category"
 msgstr "Categoria"
